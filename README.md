@@ -1,0 +1,3 @@
+Atividade para estruturação de dados, Aqui você visualizará como alunos são registrados  COm notas, sala, curso, semestre e etc...
+
+---------- Também incluindo endereços e vetores. -------------
